@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\VISION\Back\RockPaperScissors\RockPaperScissor\RockPaperScissor\bin\Debug\RockPaperScissor.exe.config
+C:\Users\Dell\Desktop\VISION\Back\RockPaperScissors\RockPaperScissor\RockPaperScissor\bin\Debug\RockPaperScissor.exe
+C:\Users\Dell\Desktop\VISION\Back\RockPaperScissors\RockPaperScissor\RockPaperScissor\bin\Debug\RockPaperScissor.pdb
+C:\Users\Dell\Desktop\VISION\Back\RockPaperScissors\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\VISION\Back\RockPaperScissors\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.Form1.resources
+C:\Users\Dell\Desktop\VISION\Back\RockPaperScissors\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.Properties.Resources.resources
+C:\Users\Dell\Desktop\VISION\Back\RockPaperScissors\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\VISION\Back\RockPaperScissors\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\VISION\Back\RockPaperScissors\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.exe
+C:\Users\Dell\Desktop\VISION\Back\RockPaperScissors\RockPaperScissor\RockPaperScissor\obj\Debug\RockPaperScissor.pdb
